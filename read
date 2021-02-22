@@ -1,0 +1,14 @@
+pytest学习:http://www.python3.vip/tut/auto/pytest/01/
+sellenium封装:https://blog.csdn.net/u011541946/category_6788788_2.html
+
+1、新建项目结构
+       congfig:ini配置文件目录
+       framework:基类、搜索引擎类、日志类等模块
+       logs:日志
+       pageobjests:页面元素定位等内容
+       screenshots:存放截图
+       testsuits:测试套件。测试场景
+       tools:驱动等文件目录
+       report:输出测试报告
+2、测试报告用allure
+       链接地址:https://www.cnblogs.com/linuxchao/p/linuxchao-pytest-report.html
